@@ -1,0 +1,287 @@
+[09-Mar-2020 03:16:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:16:54 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:16:54 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:16:54 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:16:54 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:16:54 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:17:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:17:31 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:17:31 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:17:31 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:17:31 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:17:31 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:18:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:18:05 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:18:05 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:18:05 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:18:05 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:18:05 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:18:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:18:39 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:18:39 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:18:39 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:18:39 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:18:39 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:19:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:19:13 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:19:13 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:19:13 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:19:13 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:19:13 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:19:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:19:45 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:19:45 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:19:45 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:19:45 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:19:45 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:20:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:20:08 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:20:08 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:20:08 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:20:08 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:20:08 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:20:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:20:58 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:20:58 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:20:58 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:20:58 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:20:58 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:21:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:21:25 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:21:25 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:21:25 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:21:25 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:21:25 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:21:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:21:29 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:21:29 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:21:30 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:21:30 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:21:30 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:22:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:22:08 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:22:08 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:22:08 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:22:08 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:22:08 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:22:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:22:43 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:22:43 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:22:43 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:22:43 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:22:43 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:22:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:22:59 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:22:59 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:22:59 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:22:59 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:22:59 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:23:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:23:39 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:23:39 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:23:39 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:23:39 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:23:39 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:23:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:23:41 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:23:41 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:23:41 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:23:41 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:23:41 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:24:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:24:22 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:24:22 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:24:22 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:24:22 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:24:22 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:24:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:24:25 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:24:25 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:24:25 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:24:25 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:24:25 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:24:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:24:54 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:24:54 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:24:54 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:24:54 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:24:54 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:25:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:25:32 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:25:32 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:25:32 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:25:32 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:25:32 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:26:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:26:06 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:26:06 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:26:06 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:26:06 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:26:06 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:26:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:26:39 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:26:39 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:26:39 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:26:39 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:26:39 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:27:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:27:17 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:27:17 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:27:17 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:27:17 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:27:17 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:27:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:27:22 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:27:22 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:27:22 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:27:22 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:27:22 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:27:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:27:58 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:27:58 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:27:58 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:27:58 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:27:58 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:28:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:28:34 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:28:34 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:28:34 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:28:34 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:28:34 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:29:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:29:08 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:29:08 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:29:08 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:29:08 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:29:08 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:29:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:29:43 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:29:43 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:29:43 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:29:43 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:29:43 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:30:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:30:01 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:30:01 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:30:01 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:30:01 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:30:01 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:30:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:30:45 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:30:45 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:30:45 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:30:45 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:30:45 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:31:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:31:15 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:31:15 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:31:15 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:31:15 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:31:15 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:31:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:31:52 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:31:52 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:31:52 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:31:52 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:31:52 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:32:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:32:26 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:32:26 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:32:26 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:32:26 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:32:26 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:32:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:33:01 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:33:01 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:33:01 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:33:01 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:33:01 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:33:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:33:15 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:33:15 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:33:15 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:33:15 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:33:15 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:33:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:33:55 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:33:55 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:33:55 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:33:55 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:33:55 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:34:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:34:09 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:34:09 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:34:09 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:34:09 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:34:09 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:34:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:34:14 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:34:14 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:34:14 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:34:14 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:34:14 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:34:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:34:52 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:34:52 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:34:52 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:34:52 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:34:52 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:35:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:35:08 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:35:08 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:35:08 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:35:08 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:35:08 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:35:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:35:43 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:35:43 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:35:43 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:35:43 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:35:43 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:36:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:36:17 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:36:17 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:36:17 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:36:17 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:36:17 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:36:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:36:50 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:36:50 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:36:50 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:36:50 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:36:50 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:37:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:37:24 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:37:24 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:37:24 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:37:24 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:37:24 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:37:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:37:58 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:37:58 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:37:58 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:37:58 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:37:58 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:38:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:38:32 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:38:32 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:38:32 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:38:32 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:38:32 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 03:39:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 276
+[09-Mar-2020 10:39:06 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 297
+[09-Mar-2020 10:39:06 Asia/Bangkok] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 302
+[09-Mar-2020 10:39:06 Asia/Bangkok] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/index.php on line 351
+[09-Mar-2020 10:39:06 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 353
+[09-Mar-2020 10:39:06 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[09-Mar-2020 10:39:39 Asia/Bangkok] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/monitor3/awsilkomipb.xyz/index.php on line 356
+[11-Mar-2020 04:46:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/downloadXlsx.php on line 7
+[11-Mar-2020 04:46:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/downloadXlsx.php on line 9
+[11-Mar-2020 04:46:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/downloadXlsx.php on line 29
+[11-Mar-2020 04:46:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monitor3/awsilkomipb.xyz/downloadXlsx.php on line 7
+[11-Mar-2020 04:46:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/monitor3/awsilkomipb.xyz/downloadXlsx.php on line 9
+[11-Mar-2020 04:46:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/monitor3/awsilkomipb.xyz/downloadXlsx.php on line 29
+[12-Mar-2020 07:05:50 UTC] PHP Warning:  file_get_contents(https://api.thingspeak.com/channels/989621/feeds/last.json): failed to open stream: Connection timed out in /home/monitor3/awsilkomipb.xyz/readData.php on line 2
+[06-Aug-2020 10:30:07 Asia/Bangkok] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/monitor3/awsilkomipb.xyz/index.php on line 281
+[06-Aug-2020 10:30:07 Asia/Bangkok] PHP Warning:  file_get_contents(https://api.thingspeak.com/channels/989621/feeds/last.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/monitor3/awsilkomipb.xyz/index.php on line 281
+[06-Aug-2020 10:30:07 Asia/Bangkok] PHP Warning:  Error while sending QUERY packet. PID=3454441 in /home/monitor3/awsilkomipb.xyz/index.php on line 298
